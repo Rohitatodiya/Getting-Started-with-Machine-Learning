@@ -1,2 +1,3 @@
-# Supervised Learning Classification
-Classification is a supervised machine learning method where the model tries to predict the correct label of a given input data. In classification, the model is fully trained using the training data, and then it is evaluated on test data before being used to perform prediction on new unseen data.
+# Machine Learning
+Machine Learning (ML) involves understanding the basics, setting up your environment, and practicing with real-world datasets. Here's a step-by-step guide to help you begin your journey.
+ML: A subset of artificial intelligence (AI) that enables systems to learn patterns from data and make predictions or decisions without being explicitly programmed.
